@@ -111,7 +111,7 @@ The following data-cleaning steps were performed:
 
 **Average Transaction Value:**
 
-> Update with your result.
+> 321.83631762295084.
 
 ---
 
@@ -119,7 +119,7 @@ The following data-cleaning steps were performed:
 
 **Branch with the Highest Satisfaction:**
 
-> Update with your result.
+> Cairo.
 
 ---
 
@@ -127,11 +127,11 @@ The following data-cleaning steps were performed:
 
 **Highest Sales Day:**
 
-> Update with your result.
+> 15.0
 
 **Highest Sales Month:**
 
-> Update with your result.
+> 1.0
 
 ---
 
@@ -139,6 +139,6 @@ The following data-cleaning steps were performed:
 
 **Overall Satisfaction Percentage:**
 
-> Update with your result.
+> 50.1
 
 ---
