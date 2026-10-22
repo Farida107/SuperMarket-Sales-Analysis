@@ -57,7 +57,9 @@ The following data-cleaning steps were performed:
 
 **Result / Screenshot:**
 
-> ![My Profile](total revenue by city.png) 
+> <p align="center">
+  <img src="total revenue by city.png" alt="Revenue by City" width="700">
+</p> 
 
 ---
 
