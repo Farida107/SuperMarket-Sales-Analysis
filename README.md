@@ -67,11 +67,13 @@ The following data-cleaning steps were performed:
 
 **Most Profitable Branch:**
 
-> Update with your result.
+> Giza.
 
 **Result / Screenshot:**
 
-> Add your table or image here.
+> <p align="center">
+  <img src="profit by branch.png" alt="Revenue by City" width="700">
+</p> 
 
 ---
 
@@ -79,11 +81,13 @@ The following data-cleaning steps were performed:
 
 **Top-Performing Category:**
 
-> Update with your result.
+> Food and Beverages.
 
 **Result / Screenshot:**
 
-> Add your table or image here.
+> <p align="center">
+  <img src="revenue by product category.png" alt="Revenue by City" width="700">
+</p> .
 
 ---
 
@@ -91,7 +95,7 @@ The following data-cleaning steps were performed:
 
 **Customer Type That Spends More:**
 
-> Update with your result.
+> Member.
 
 ---
 
@@ -99,7 +103,7 @@ The following data-cleaning steps were performed:
 
 **Most Popular Payment Method:**
 
-> Update with your result.
+> Ewallet.
 
 ---
 
