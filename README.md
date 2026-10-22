@@ -57,7 +57,7 @@ The following data-cleaning steps were performed:
 
 **Result / Screenshot:**
 
-> Add your table or image here.
+> total revenue by city.png
 
 ---
 
