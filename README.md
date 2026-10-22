@@ -57,7 +57,7 @@ The following data-cleaning steps were performed:
 
 **Result / Screenshot:**
 
-> total revenue by city.png
+> ![My Profile](total revenue by city.png) 
 
 ---
 
