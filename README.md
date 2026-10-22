@@ -45,7 +45,7 @@ The following data-cleaning steps were performed:
 
 **Result:**
 
-> Update with your result. for example ![Revenue by City](images/revenue_by_city.png)
+> 314112.24600000004. 
 
 ---
 
@@ -53,7 +53,7 @@ The following data-cleaning steps were performed:
 
 **Highest Revenue City:**
 
-> Update with your result.
+>Naypyitaw
 
 **Result / Screenshot:**
 
